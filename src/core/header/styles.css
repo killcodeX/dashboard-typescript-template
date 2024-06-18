@@ -13,7 +13,7 @@
 }
 
 .header-reduced {
-  padding: 0px 32px 0px 292px;
+  padding: 0px 32px 0px 230px;
 }
 
 .header-left-side-container {
@@ -21,4 +21,12 @@
   flex-direction: row;
   gap: 16px;
   align-items: center;
+}
+
+.side-bar-toggler {
+  margin-top: 5px;
+}
+
+.side-bar-toggler:hover {
+  cursor: pointer;
 }
